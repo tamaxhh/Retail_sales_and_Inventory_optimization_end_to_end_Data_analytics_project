@@ -4,13 +4,13 @@ This README file provides a comprehensive overview of the **Vendor Sales and Inv
 
 ### Table of Contents
 
-- [Project Overview](!project-overview)
-- [Features](!features)
-- [Types of Data Used](https://www.google.com/search?q=%23types-of-data-used)
-- [Project Structure](https://www.google.com/search?q=%23project-structure)
-- [Getting Started](https://www.google.com/search?q=%23getting-started)
-- [Key Insights and Recommendations](https://www.google.com/search?q=%23key-insights-and-recommendations)
-- [Contact](https://www.google.com/search?q=%23contact)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Types of Data Used](#types-of-data-used)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Key Insights and Recommendations](#key-insights-and-recommendations)
+- [Contact](#contact)
 
 ---
 
